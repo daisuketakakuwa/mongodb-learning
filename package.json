@@ -1,0 +1,10 @@
+{
+  "name": "mongodb-learning",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.1.0"
+  }
+}
